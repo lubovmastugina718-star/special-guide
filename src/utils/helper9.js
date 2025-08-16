@@ -1,4 +1,4 @@
-// Utility functions for repos_special-guide
+// Utility functions for repos_hist_special-guide_20250816
 export function formatDate(date) {
     return new Date(date).toLocaleDateString();
 }
