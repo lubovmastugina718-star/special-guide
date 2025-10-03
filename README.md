@@ -5,3 +5,7 @@ Initial commit.
 # Improve code readability
 
 # Improve code readability
+
+## Update
+
+Improve error handling
