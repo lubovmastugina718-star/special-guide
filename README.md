@@ -9,3 +9,5 @@ Initial commit.
 ## Update
 
 Improve error handling
+
+# Add configuration options
