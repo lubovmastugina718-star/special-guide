@@ -11,3 +11,7 @@ Initial commit.
 Improve error handling
 
 # Add configuration options
+
+## Update
+
+Add caching mechanism
