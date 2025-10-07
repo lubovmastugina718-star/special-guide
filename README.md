@@ -15,3 +15,5 @@ Improve error handling
 ## Update
 
 Add caching mechanism
+
+# Add error recovery
