@@ -19,3 +19,7 @@ Add caching mechanism
 # Add error recovery
 
 # Add input validation
+
+## Update
+
+Fix memory allocation
