@@ -27,3 +27,7 @@ Fix memory allocation
 ## Update
 
 Update tests
+
+## Update
+
+Update dependencies
