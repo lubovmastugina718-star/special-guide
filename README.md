@@ -31,3 +31,7 @@ Update tests
 ## Update
 
 Update dependencies
+
+## Update
+
+Update CI/CD config
