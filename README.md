@@ -35,3 +35,7 @@ Update dependencies
 ## Update
 
 Update CI/CD config
+
+## Update
+
+Improve code readability
