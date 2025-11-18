@@ -39,3 +39,7 @@ Update CI/CD config
 ## Update
 
 Improve code readability
+
+## Update
+
+Fix timeout issue
