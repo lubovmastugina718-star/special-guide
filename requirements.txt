@@ -1,3 +1,5 @@
 # Update error codes
 
 # Add error handling
+
+# Add logging
