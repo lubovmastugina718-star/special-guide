@@ -43,3 +43,7 @@ Improve code readability
 ## Update
 
 Fix timeout issue
+
+## Update
+
+Update API documentation
