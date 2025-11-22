@@ -47,3 +47,7 @@ Fix timeout issue
 ## Update
 
 Update API documentation
+
+## Update
+
+Add caching mechanism
