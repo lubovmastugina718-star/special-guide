@@ -51,3 +51,7 @@ Update API documentation
 ## Update
 
 Add caching mechanism
+
+## Update
+
+Improve error handling
