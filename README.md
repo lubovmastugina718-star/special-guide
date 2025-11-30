@@ -55,3 +55,7 @@ Add caching mechanism
 ## Update
 
 Improve error handling
+
+## Update
+
+Fix memory leak
