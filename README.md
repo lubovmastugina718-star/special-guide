@@ -59,3 +59,7 @@ Improve error handling
 ## Update
 
 Fix memory leak
+
+## Update
+
+Update config files
