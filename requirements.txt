@@ -7,3 +7,5 @@
 # Update package.json
 
 # Add caching mechanism
+
+# Add new endpoint
