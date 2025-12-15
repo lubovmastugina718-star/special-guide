@@ -63,3 +63,7 @@ Fix memory leak
 ## Update
 
 Update config files
+
+## Update
+
+Fix async/await issue
