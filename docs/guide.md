@@ -7,3 +7,5 @@ Update dependencies
 ```
 code example
 ```
+
+# Fix memory leak
