@@ -87,3 +87,7 @@ Fix security issue
 ## Update
 
 Update README with examples
+
+## Update
+
+Add unit tests
