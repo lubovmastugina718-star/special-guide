@@ -91,3 +91,7 @@ Update README with examples
 ## Update
 
 Add unit tests
+
+## Update
+
+Improve error messages
