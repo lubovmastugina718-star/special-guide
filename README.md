@@ -95,3 +95,7 @@ Add unit tests
 ## Update
 
 Improve error messages
+
+## Update
+
+Add logging
