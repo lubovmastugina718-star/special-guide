@@ -99,3 +99,7 @@ Improve error messages
 ## Update
 
 Add logging
+
+## Update
+
+Improve code readability
