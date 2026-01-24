@@ -103,3 +103,7 @@ Add logging
 ## Update
 
 Improve code readability
+
+## Update
+
+Clean up code
