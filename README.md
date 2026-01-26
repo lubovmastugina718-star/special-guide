@@ -107,3 +107,7 @@ Improve code readability
 ## Update
 
 Clean up code
+
+## Update
+
+Add error recovery
