@@ -111,3 +111,7 @@ Clean up code
 ## Update
 
 Add error recovery
+
+## Update
+
+Update dependencies
