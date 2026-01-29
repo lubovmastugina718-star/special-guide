@@ -115,3 +115,7 @@ Add error recovery
 ## Update
 
 Update dependencies
+
+## Update
+
+Update error codes
